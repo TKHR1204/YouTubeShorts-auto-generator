@@ -2,8 +2,6 @@
 
 RSSフィードとGoogle Trendsからトレンドトピックを自動収集し、**Claude AI**で台本を生成、TTS音声＋スライド画像をffmpegで合成して**YouTube Shortsに自動投稿**するPythonツールです。
 
-> **Pythonを触ったことがない方でもこのREADMEを上から順に読めば動かせます。**
-
 ---
 
 ## 目次
